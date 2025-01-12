@@ -1,0 +1,17 @@
+; Author:
+; Program Name:
+; Program Description:
+; Date
+
+INCLUDE Irvine32.inc
+
+.data
+
+.code
+main PROC
+ 
+	call WaitMsg
+
+ exit
+main ENDP
+END main
